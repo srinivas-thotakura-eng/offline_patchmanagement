@@ -1,0 +1,1 @@
+This is code repo for Offline-First Patch Management for 10,000 Edge Nodes: A Practical Architecture That Scales<img width="468" height="95" alt="image" src="https://github.com/user-attachments/assets/38b5dab0-e703-440c-a8a7-ca1308cdb51a" />
